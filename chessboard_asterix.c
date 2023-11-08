@@ -1,4 +1,4 @@
-/* Try a chessboard like this
+/* Try to make a chessboard like this
 
 Take a number to make a chessboard: (ex) 3
 
